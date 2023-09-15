@@ -14,5 +14,6 @@ site:
   actions:
     - title: Learn More
       url: https://astrocodex.github.io
-  domains: 
+  domains:
     - astrocodex.curve.space
+
