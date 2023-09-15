@@ -19,10 +19,6 @@ jobs:
     steps: 
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
-        with:
-          node-version: 20.2.0
-          check-latest: true
-      - run: npm install
       - name: Deploy 🚀
         uses: curvenote/action-myst-publish@v1
         env:
