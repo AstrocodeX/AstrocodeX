@@ -11,8 +11,8 @@ site:
   template: book-theme
   title: The AstroCodEx
   logo: images/codex-logo.png
-  nav: [Home]
   actions:
     - title: Learn More
       url: https://astrocodex.github.io
-  domains: []
+  domains: 
+    - astrocodex.curve.space
