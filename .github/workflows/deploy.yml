@@ -1,5 +1,5 @@
 # This file was created automatically with `myst init --gh-curvenote` 🪄 💚
-
+# Push to curve
 name: Curvenote Deploy
 on:
   push:
