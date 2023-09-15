@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: AstroCodEx
+  description: Peer Reviewed Coding Exercises for Astronomy and Astrophysics
+  keywords: []
+  authors: []
+  github: https://astrocodex.github.io
+  # bibliography: []
+site:
+  template: book-theme
+  title: The AstroCodEx
+  logo: images/codex-logo.png
+  nav: [Home]
+  actions:
+    - title: Learn More
+      url: https://astrocodex.github.io
+  domains: []

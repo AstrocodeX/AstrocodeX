@@ -1,0 +1,17 @@
+format: jb-book
+root: intro.ipynb
+
+parts:
+  - caption: Information and Logistics
+    chapters:
+      - file: contributing.md
+      - file: glossary.md
+  - caption: UNIX/Shell Operations
+  - caption: Core Python
+  - caption: Control Flow
+  - caption: Research Libraries
+  - caption: Data I/O
+  - caption: Functional Programming
+  - caption: Object-Oriented Programming
+  - caption: Model Fitting
+  - caption: Numerical Methods
