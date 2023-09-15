@@ -22,8 +22,6 @@ jobs:
         with:
           node-version: 20.2.0
           check-latest: true
-      - run: npm ci
-      - run: npm test
       - name: Deploy 🚀
         uses: curvenote/action-myst-publish@v1
         env:
